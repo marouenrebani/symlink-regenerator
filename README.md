@@ -5,7 +5,7 @@ This python script restore the symbolic link for you.
 ## How to use it
 Put the script in the directory where are located your broken symlinks or a parent directory and run it:
 ```
-python3 main.py
+python3 symlink-regenerator.py
 ```
 
 ## License Summary
